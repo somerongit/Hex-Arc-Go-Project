@@ -1,1 +1,1 @@
-# Hex-Arc-Go-Project
+# Hex-Arc-Go-Projects
